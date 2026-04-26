@@ -1,4 +1,4 @@
-# Typrace
+# AI-Vim
 
 A typing test application inspired by MonkeyType and Vim Racer, built with React, Flask, and MongoDB.
 
