@@ -2,7 +2,11 @@
 # AI-Vim
 
 A typing test application inspired by MonkeyType and Vim Racer, built with React, Flask, and MongoDB.
-https://github.com/user-attachments/assets/1618d72b-4e8a-466c-bdc8-27a8142ce486
+
+
+https://github.com/user-attachments/assets/90a9ce27-8fb5-4399-8a19-8814a3bf7994
+
+
 ## Features
 
 - Multiple test modes: Word Targets (3, 5, 7, 10), and Language (Python, JavaScript, TypeScript, Rust, Go, C)
